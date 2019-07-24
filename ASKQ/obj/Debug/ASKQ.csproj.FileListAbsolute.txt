@@ -1,0 +1,349 @@
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Desktop\פרויקט\ASKQ\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Documents\GitHub\AskQ\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\ASKQ.dll.config
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\ASKQ.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\ASKQ.pdb
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Http.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Razor.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\WebGrease.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Http.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.Razor.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\netta sapir\Desktop\תעונ שנה ד\AskQ\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Desktop\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Downloads\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Desktop\AskQ2 28'5'2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.ResolveComReference.cache
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.ResolveComReference.cache
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Downloads\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Downloads\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.ResolveComReference.cache
+C:\Users\omerc\Downloads\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Downloads\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Downloads\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Downloads\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Downloads\AskQ2\ASKQ\bin\ExcelLibrary.dll
+C:\Users\netta sapir\Desktop\AskQ2\ASKQ\bin\ExcelLibrary.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\ExcelLibrary.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.ResolveComReference.cache
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Desktop\AskQ2 18.7.2019\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\ASKQ.dll.config
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\ASKQ.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\ASKQ.pdb
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\Antlr3.Runtime.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\ExcelLibrary.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\Newtonsoft.Json.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Net.Http.Formatting.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Helpers.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Http.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Http.WebHost.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Mvc.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Optimization.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Razor.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.WebPages.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\WebGrease.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\Newtonsoft.Json.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Net.Http.Formatting.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Helpers.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Http.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Http.WebHost.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Mvc.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Optimization.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.Razor.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.WebPages.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\bin\Antlr3.Runtime.pdb
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\obj\Debug\ASKQ.csprojResolveAssemblyReference.cache
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.ResolveComReference.cache
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\obj\Debug\ASKQ.csproj.CopyComplete
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\obj\Debug\ASKQ.dll
+C:\Users\omerc\Downloads\AskQ2 21.7.19\AskQ2\ASKQ\obj\Debug\ASKQ.pdb
