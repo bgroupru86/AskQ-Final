@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="../js/imgUpload.js"></script>
+    <script src="../Scripts/ajaxCall.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <!--bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
+
+    <style>
+        #answer {
+            width: 50%;
+            padding: 12px 20px;
+            margin: 8px;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+    </style>
+
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyBp55jCWT6yobw7s2T6sKnB5YhF-Qb0fzQ",
+            authDomain: "askq-1234.firebaseapp.com",
+            databaseURL: "https://askq-1234.firebaseio.com",
+            projectId: "askq-1234",
+            storageBucket: "askq-1234.appspot.com",
+            messagingSenderId: "713703772173"
+        };
+        firebase.initializeApp(config);
+
+        ref2 = firebase.database().ref("/isTextLocked");
+ 
+        ref2.on('value', function (snapshot) {
+            var state = snapshot.val();
+            if (state.state == "false") {
+                $("#answer").prop("disabled", true);
+            }
+            else if (state.state == "true") {
+                $("#answer").prop("disabled", false);
+            }
+            
+        });
+
+        function sendAnswerMessage() {
+            ref = firebase.database().ref("/Answers");
+            messageField = $("#answer").val();
+
+            ref.push().set({
+                message: messageField
+            });
+            addAnswer();
+        }
+
+        var q;
+
+        function addAnswer() {
+
+            q = localStorage.getItem("id");
+            var answer = $("#answer").val();
+            Answer = {
+                AnswerContent: answer,
+                QuestionId: q
+            }
+            ajaxCall("POST", "../api/studentsAnswers/post", JSON.stringify(Answer), successLog, errorLog);
+        }
+
+        function successLog(data) { }
+
+        function errorLog() {
+            alert("Error log");
+        }
+
+
+      
+
+    </script>
+
+</head>
+<body>
+    <h3>write your answer:</h3>
+    <input type="text" name="answer" id="answer">
+
+    <input type="button" value="send" id="sendBTN" onclick="sendAnswerMessage()">
+</body>
+</html>
